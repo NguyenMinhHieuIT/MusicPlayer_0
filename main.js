@@ -52,6 +52,12 @@ const app = {
       path: "./assets/music/song4.mp3",
       image: "./assets/img/song4.jpg"
     },
+    {
+      name: "Anh Đánh Rơi Người Yêu Này",
+      singer: "Andiez, AMee",
+      path: "./assets/music/song5.mp3",
+      image: "./assets/img/song5.jpg"
+    },
   ],
   setConfig: function (key, value) {
     this.config[key] = value;
